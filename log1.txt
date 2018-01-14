@@ -1,0 +1,201 @@
+Test1.java is source code file and  checking for Copyright
+ path_name : file_name : Test1.javastatus : 1Test1.java is source code file and  checking for Copyright
+ path_name : file_name : Test1.javastatus : 1Test1.java is source code file and  checking for Copyright
+ path_name : file_name : Test1.javastatus : 1Test1.java is source code file and  checking for Copyright
+ path_name : file_name : Test1.javastatus : 1Test1.java is source code file and  checking for Copyright
+ path_name : file_name : Test1.javastatus : 1Test1.java is source code file and  checking for Copyright
+ path_name : file_name : Test1.javastatus : 1Test1.java is source code file and  checking for Copyright
+ path_name : file_name : Test1.javastatus : 1Test1.java is source code file and  checking for Copyright
+ path_name : file_name : Test1.javastatus : 1Test1.java is source code file and  checking for Copyright
+ path_name : file_name : Test1.javastatus : 1Test1.java is source code file and  checking for Copyright
+ path_name : file_name : Test1.javastatus : 1Test1.java is source code file and  checking for Copyright
+ path_name : file_name : Test1.javastatus : 1Test1.java is source code file and  checking for Copyright
+ path_name : file_name : Test1.javastatus : 1Test1.java is source code file and  checking for Copyright
+ path_name : file_name : Test1.javastatus : 1Test1.java is source code file and  checking for Copyright
+ path_name : file_name : Test1.javastatus : 1Test1.java is source code file and  checking for Copyright
+ path_name : file_name : Test1.javastatus : 1Test1.java is source code file and  checking for Copyright
+ path_name : file_name : Test1.javastatus : 1Test1.java is source code file and  checking for Copyright
+ path_name : file_name : Test1.javastatus : 1Test1.java is source code file and  checking for Copyright
+ path_name : file_name : Test1.javastatus : 1Test1.java is source code file and  checking for Copyright
+ path_name : file_name : Test1.javastatus : 1Test1.java is source code file and  checking for Copyright
+ path_name : file_name : Test1.javastatus : 1Test1.java is source code file and  checking for Copyright
+ path_name : file_name : Test1.javastatus : 1Test1.java is source code file and  checking for Copyright
+ file : Test1.java   has already got IBM Copyright
+Test1.java is source code file and  checking for Copyright
+ file : Test1.java   has already got IBM Copyright
+Test1.java is source code file and  checking for Copyright
+ file : Test1.java   has already got IBM Copyright
+Test1.java is source code file and  checking for Copyright
+ file : Test1.java   has already got IBM Copyright
+--------------------------------------------------
+ copy_right appended to file_name : altguess.py
+--------------------------------------------------path_name : C:\Users\mohanSrinivas\Desktop//file_name : appendcopyright.pystatus : 1
+--------------------------------------------------
+unhandleable format file : c.txt
+--------------------------------------------------
+path_name : C:\Users\mohanSrinivas\Desktop//file_name : checker.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : copyright_filetype.pystatus : 1
+--------------------------------------------------
+unhandleable format file : desktop.ini
+--------------------------------------------------
+--------------------------------------------------
+ copy_right appended to file_name : detectfiletype.py
+----------------------------------------------------------------------------------------------------
+ copy_right appended to file_name : doit.go
+--------------------------------------------------
+--------------------------------------------------
+unhandleable format file : downloadAccess.class
+--------------------------------------------------
+--------------------------------------------------
+ copy_right appended to file_name : downloadAccess.java
+--------------------------------------------------
+--------------------------------------------------
+unhandleable format file : failed_files.txt
+--------------------------------------------------
+path_name : C:\Users\mohanSrinivas\Desktop//file_name : file_type_checker.pystatus : 1--------------------------------------------------
+ copy_right appended to file_name : gitter.py
+----------------------------------------------------------------------------------------------------
+ copy_right appended to file_name : guessit.py
+----------------------------------------------------------------------------------------------------
+ copy_right appended to file_name : helloworld.py
+----------------------------------------------------------------------------------------------------
+ copy_right appended to file_name : joke.js
+----------------------------------------------------------------------------------------------------
+ copy_right appended to file_name : joke.ts
+--------------------------------------------------
+--------------------------------------------------
+unhandleable format file : log1.txt
+--------------------------------------------------
+
+--------------------------------------------------
+unhandleable format file : out.zip
+--------------------------------------------------
+--------------------------------------------------
+ copy_right appended to file_name : pyic.py
+----------------------------------------------------------------------------------------------------
+ copy_right appended to file_name : repo.py
+----------------------------------------------------------------------------------------------------
+ copy_right appended to file_name : repos.py
+--------------------------------------------------
+--------------------------------------------------
+unhandleable format file : sd
+--------------------------------------------------
+
+--------------------------------------------------
+unhandleable format file : shelll.bat
+--------------------------------------------------
+
+--------------------------------------------------
+unhandleable format file : test1.class
+--------------------------------------------------
+path_name : C:\Users\mohanSrinivas\Desktop//file_name : Test1.javastatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : walkthefolder.pystatus : 1--------------------------------------------------
+ copy_right appended to file_name : welcome.py
+----------------------------------------------------------------------------------------------------
+ copy_right appended to file_name : zipfileopener.py
+--------------------------------------------------path_name : C:\Users\mohanSrinivas\Desktop//outfile_name : appendcopyright.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//outfile_name : copyright_filetype.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//outfile_name : file_type_checker.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//outfile_name : walkthefolder.pystatus : 1
+--------------------------------------------------
+unhandleable format file : copyright_filetype.cpython-35.pyc
+--------------------------------------------------
+
+--------------------------------------------------
+unhandleable format file : file_type_checker.cpython-35.pyc
+--------------------------------------------------
+path_name : C:\Users\mohanSrinivas\Desktop//file_name : altguess.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : appendcopyright.pystatus : 1
+--------------------------------------------------
+unhandleable format file : c.txt
+--------------------------------------------------
+path_name : C:\Users\mohanSrinivas\Desktop//file_name : checker.pystatus : 1
+--------------------------------------------------
+unhandleable format file : CopyRightChecker.bat
+--------------------------------------------------
+path_name : C:\Users\mohanSrinivas\Desktop//file_name : copyright_filetype.pystatus : 1
+--------------------------------------------------
+unhandleable format file : desktop.ini
+--------------------------------------------------
+path_name : C:\Users\mohanSrinivas\Desktop//file_name : detectfiletype.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : doit.gostatus : 1
+--------------------------------------------------
+unhandleable format file : downloadAccess.class
+--------------------------------------------------
+path_name : C:\Users\mohanSrinivas\Desktop//file_name : downloadAccess.javastatus : 1
+--------------------------------------------------
+unhandleable format file : failed_files.txt
+--------------------------------------------------
+path_name : C:\Users\mohanSrinivas\Desktop//file_name : file_type_checker.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : gitter.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : guessit.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : helloworld.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : joke.jsstatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : joke.tsstatus : 1
+--------------------------------------------------
+unhandleable format file : log1.txt
+--------------------------------------------------
+
+--------------------------------------------------
+unhandleable format file : out.zip
+--------------------------------------------------
+path_name : C:\Users\mohanSrinivas\Desktop//file_name : pyic.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : repo.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : repos.pystatus : 1
+--------------------------------------------------
+unhandleable format file : sd
+--------------------------------------------------
+
+--------------------------------------------------
+unhandleable format file : shelll.bat
+--------------------------------------------------
+
+--------------------------------------------------
+unhandleable format file : test1.class
+--------------------------------------------------
+path_name : C:\Users\mohanSrinivas\Desktop//file_name : Test1.javastatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : walkthefolder.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : welcome.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : zipfileopener.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//outfile_name : appendcopyright.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//outfile_name : copyright_filetype.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//outfile_name : file_type_checker.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//outfile_name : walkthefolder.pystatus : 1
+--------------------------------------------------
+unhandleable format file : copyright_filetype.cpython-35.pyc
+--------------------------------------------------
+
+--------------------------------------------------
+unhandleable format file : file_type_checker.cpython-35.pyc
+--------------------------------------------------
+path_name : C:\Users\mohanSrinivas\Desktop//file_name : altguess.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : appendcopyright.pystatus : 1
+--------------------------------------------------
+unhandleable format file : c.txt
+--------------------------------------------------
+path_name : C:\Users\mohanSrinivas\Desktop//file_name : checker.pystatus : 1
+--------------------------------------------------
+unhandleable format file : CopyRightChecker.bat
+--------------------------------------------------
+path_name : C:\Users\mohanSrinivas\Desktop//file_name : copyright_filetype.pystatus : 1
+--------------------------------------------------
+unhandleable format file : desktop.ini
+--------------------------------------------------
+path_name : C:\Users\mohanSrinivas\Desktop//file_name : detectfiletype.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : doit.gostatus : 1
+--------------------------------------------------
+unhandleable format file : downloadAccess.class
+--------------------------------------------------
+path_name : C:\Users\mohanSrinivas\Desktop//file_name : downloadAccess.javastatus : 1
+--------------------------------------------------
+unhandleable format file : failed_files.txt
+--------------------------------------------------
+path_name : C:\Users\mohanSrinivas\Desktop//file_name : file_type_checker.pystatus : 1--------------------------------------------------
+ copy_right appended to file_name : first.py
+--------------------------------------------------path_name : C:\Users\mohanSrinivas\Desktop//file_name : gitter.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : guessit.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : helloworld.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : joke.jsstatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : joke.tsstatus : 1--------------------------------------------------
+ copy_right appended to file_name : list_branches.py
+--------------------------------------------------
+--------------------------------------------------
+unhandleable format file : log1.txt
+--------------------------------------------------
+
+--------------------------------------------------
+unhandleable format file : out.zip
+--------------------------------------------------
+path_name : C:\Users\mohanSrinivas\Desktop//file_name : pyic.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : repo.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : repos.pystatus : 1
+--------------------------------------------------
+unhandleable format file : sd
+--------------------------------------------------
+
+--------------------------------------------------
+unhandleable format file : shelll.bat
+--------------------------------------------------
+
+--------------------------------------------------
+unhandleable format file : test1.class
+--------------------------------------------------
+path_name : C:\Users\mohanSrinivas\Desktop//file_name : Test1.javastatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : walkthefolder.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : welcome.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//file_name : zipfileopener.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//outfile_name : appendcopyright.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//outfile_name : copyright_filetype.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//outfile_name : file_type_checker.pystatus : 1path_name : C:\Users\mohanSrinivas\Desktop//outfile_name : walkthefolder.pystatus : 1
+--------------------------------------------------
+unhandleable format file : copyright_filetype.cpython-35.pyc
+--------------------------------------------------
+
+--------------------------------------------------
+unhandleable format file : file_type_checker.cpython-35.pyc
+--------------------------------------------------
